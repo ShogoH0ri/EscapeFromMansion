@@ -1,0 +1,20 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE
+.vscode/
+.idea/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+
+# OSごみファイル
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
